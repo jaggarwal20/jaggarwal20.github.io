@@ -4,11 +4,11 @@
 - [1.0 Introduction](#Introduction)
   * 1.1 Purpose
   * 1.2 Tools
-- [2.0 Microbes Found](#Microbes Found)
+- [2.0 Microbes Found](#Microbes_Found)
  
-- [3.0 Bacteria Cultures per Sample](#Bacteria Cultures per Sample)
+- [3.0 Bacteria Cultures per Sample](#Bacteria)
 
-- [4.0 Washing Frequency](#Washing Frequency)
+- [4.0 Washing Frequency](#Washing)
 
 
 <a name="Introduction"></a>
@@ -22,13 +22,13 @@ Roza wants to analyze the bacteria found in belly buttons and create visualizati
   - Javascript- Plotly
   - Data- samples.json
  
-<a name="#Microbes Found"></a>
+<a name="#Microbes_Found"></a>
 ## 2.0 Microbes Found
 
 ![alt text](Resources/Pivot_Table.png)
 
-<a name="#Bacteria Cultures per Sample"></a>
+<a name="#Bacteria"></a>
 ## 3.0 Bacteria Cultures per Sample
 
-<a name="#Washing Frequency"></a>
+<a name="#Washing"></a>
 ## 4.0 Washing Frequency
