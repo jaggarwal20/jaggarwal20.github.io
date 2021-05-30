@@ -4,7 +4,7 @@
 - [1.0 Introduction](#Introduction)
   * 1.1 Purpose
   * 1.2 Tools
-- [2.0 Microbes Found](#Microbes_Found)
+- [2.0 Microbes Found](#Bacteria_Found)
  
 - [3.0 Bacteria Cultures per Sample](#Bacteria)
 
@@ -22,13 +22,25 @@ Roza wants to analyze the bacteria found in belly buttons and create visualizati
   - Javascript- Plotly
   - Data- samples.json
  
-<a name="#Microbes_Found"></a>
+<a name="#Bacteria_Found"></a>
 ## 2.0 Microbes Found
 
-![alt text](Resources/Pivot_Table.png)
+Sampling the OTU IDs and the top 10 microbes found in the belly button.  A horizontal bar chart was created displaying these results in reverse order. 
+
+![alt text](resources/bar_chart.png)
+
+<img src="https://github.com/jaggarwal20/plotlyDeploy/resources/bar_chart.png" width="100">
 
 <a name="#Bacteria"></a>
 ## 3.0 Bacteria Cultures per Sample
 
+A bubble plot was created utilizing all the data for each ID. The size of each bubble represents the number of bacteria found per sample. 
+
+![alt text](resources/bubble.png)
+
 <a name="#Washing"></a>
 ## 4.0 Washing Frequency
+
+The gauge chart displays the frequency a belly button is washed based on the test subject ID number. 
+
+![alt text](resources/gauge.png)
