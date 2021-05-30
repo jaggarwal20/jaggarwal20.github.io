@@ -27,20 +27,18 @@ Roza wants to analyze the bacteria found in belly buttons and create visualizati
 
 Sampling the OTU IDs and the top 10 microbes found in the belly button.  A horizontal bar chart was created displaying these results in reverse order. 
 
-![alt text](resources/bar_chart.png)
-
-<img src="https://github.com/jaggarwal20/plotlyDeploy/resources/bar_chart.png" width="100">
+<img src="https://github.com/jaggarwal20/plotlyDeploy/blob/master/resources/bar_chart.png" width="400">
 
 <a name="#Bacteria"></a>
 ## 3.0 Bacteria Cultures per Sample
 
 A bubble plot was created utilizing all the data for each ID. The size of each bubble represents the number of bacteria found per sample. 
 
-![alt text](resources/bubble.png)
+<img src="https://github.com/jaggarwal20/plotlyDeploy/blob/master/resources/bubble.png" width="400">
 
 <a name="#Washing"></a>
 ## 4.0 Washing Frequency
 
 The gauge chart displays the frequency a belly button is washed based on the test subject ID number. 
 
-![alt text](resources/gauge.png)
+<img src="https://github.com/jaggarwal20/plotlyDeploy/blob/master/resources/gauge.png" width="400">
